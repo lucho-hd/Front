@@ -9,7 +9,6 @@ import validateCheckOut from '../../validators/checkoutValidator';
 import useTitle from '../../hooks/useTitle';
 import Loader from '../../components/loader';
 
-// TODO: Terminar validaciones del check
 
 const Checkout = () => {
     const [cartItems, setCartItems] = useState([]);
