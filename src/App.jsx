@@ -51,7 +51,7 @@ import CreateSubscription     from './views/Admin/CreateSubscription';
 import EditSubscription       from './views/Admin/EditSubscription';
 
 // Carrito
-import Cart                   from './views/Cart/cart';
+import Cart                   from './views/Cart/Cart';
 import Checkout               from './views/Cart/CheckOut';
 import Exito                  from './views/Cart/Exito';
 
