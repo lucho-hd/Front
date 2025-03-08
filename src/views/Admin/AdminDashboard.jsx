@@ -8,7 +8,7 @@ import * as AdminService from "../../services/admin.services.js"
 import DashboardCard from "../../components/dashboard-card"
 import AdminTable from "../../components/admin-table.jsx"
 import useTitle from "../../hooks/useTitle.js"
-import Loader from "../../components/Loader.jsx"  
+import Loader from "../../components/loader.jsx"  
 
 function AdminDashboard() {
     useTitle("Panel de Administración")
